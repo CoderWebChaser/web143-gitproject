@@ -1,0 +1,13 @@
+body {
+    font-family: Helvetica, Arial, sans-serif;
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+}
+
+h1 {
+    color:darkmagenta;
+    font-size:40px;
+}
